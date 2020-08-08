@@ -32,3 +32,15 @@ Import the codes
 ```sh
 yarn start
 ```
+
+## Project GIF
+
+<div align="center">
+<img src="https://media.giphy.com/media/YlTJEdfwUlxTqzHWr8/giphy.gif" alt="Cadastro" height="425">
+</div>
+
+<hr />
+
+<div align="center">
+<img src="https://media.giphy.com/media/Q5A9eDVOETgcn1Ea5F/giphy.gif" alt="Cadastro" height="425">
+</div>
